@@ -62,3 +62,13 @@ ul li {
 #contact section h1 {
     text-align: center;
 }
+
+#recent-work section h2 {
+    text-align: center;
+}
+
+#recent-work section .recent-images {
+    display: flex;
+    flex: auto;
+    justify-content:space-around;
+}
