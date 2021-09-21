@@ -22,6 +22,7 @@
     font-size: 25px;
 }
 
+
 ul li {
     display: inline;
     padding: 20px;
@@ -30,11 +31,12 @@ ul li {
 
 .hero {
     background-color: orange;
+    color: white;
 }
 
 .about-me {
     text-align: center;
-    box-shadow: 5px 5px 5px #999;;
+    box-shadow: 5px 5px 5px #999;
 }
 
 #about-me {
@@ -78,4 +80,9 @@ ul li {
 
 #recent-work section figure {
     font-weight: bold;
+    font-size: 20px;
+}
+
+#contact {
+    background-color: #FFDA29;
 }
