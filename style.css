@@ -29,14 +29,17 @@ ul li {
 }
 
 .hero {
-    color: white;
     background-color: orange;
 }
 
 .about-me {
     text-align: center;
-    border: black;
     box-shadow: 5px 5px 5px #999;;
+}
+
+#about-me {
+    background-color: #FFCA16;
+    margin-top: 30px;
 }
 
 .recent-work {
@@ -47,10 +50,15 @@ ul li {
     box-shadow: 5px 5px 5px #999;;
 }
 
-@media only screen and (max-width: 600px) {
-    .about-me, .recent-work, .contact, .content, .main {
-      width: 100%;
-      padding-right: 50px;
-      justify-content: center;
-    }
+#about-me section h2 {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#recent-work section h1 {
+    text-align: center;
+}
+
+#contact section h1 {
+    text-align: center;
 }
