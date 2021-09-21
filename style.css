@@ -9,5 +9,20 @@
 }
 
 .title {
-    margin: 20px;
+    margin: 10px;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navigation {
+    float: left;
+    margin: auto;
+    margin-right: 30px;
+    font-size: 25px;
+}
+
+ul li {
+    display: inline;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
