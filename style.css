@@ -1,3 +1,13 @@
+.image {
+    margin: 20px;
+}
+
+.topup {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: auto;
+}
+
 .title {
-    text-align: center;
+    margin: 20px;
 }
