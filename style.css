@@ -27,3 +27,13 @@ ul li {
     padding: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.hero {
+    color: white;
+    background-color: orange;
+}
+
+.about-me {
+    text-align: center;
+    border: black;
+}
