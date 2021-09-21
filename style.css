@@ -36,4 +36,13 @@ ul li {
 .about-me {
     text-align: center;
     border: black;
+    box-shadow: 5px 5px 5px #999;;
+}
+
+.recent-work {
+    box-shadow: 5px 5px 5px #999;;
+}
+
+.contact {
+    box-shadow: 5px 5px 5px #999;;
 }
