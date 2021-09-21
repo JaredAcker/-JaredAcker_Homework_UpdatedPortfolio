@@ -39,7 +39,6 @@ ul li {
 
 #about-me {
     background-color: #FFCA16;
-    margin-top: 30px;
 }
 
 .recent-work {
@@ -71,4 +70,12 @@ ul li {
     display: flex;
     flex: auto;
     justify-content:space-around;
+}
+
+#recent-work {
+    background-color: #FFA856;
+}
+
+#recent-work section figure {
+    font-weight: bold;
 }
